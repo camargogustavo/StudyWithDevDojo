@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcc41d8b-eb18-4031-8aec-f32121d9673c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/domain/Notificador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/NotificadorEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/NotificadorSMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/NotificadorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Kenum/domain/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Kenum/domain/TipoCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Kenum/domain/TipoPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Kenum/test/ClientTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lclassesabstratas/domain/Desenvolvedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lclassesabstratas/domain/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lclassesabstratas/domain/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Lclassesabstratas/test/FuncionarioTest01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;camargogustavo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/camargogustavo/JavaEstudos.git&quot;,
+    &quot;accountId&quot;: &quot;1ba5ac44-a5a7-4872-b187-809cfbd69ce3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="39TiUG5I88XsL65g23xHEW1KVA6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BancoBdcTest01.executor": "Run",
+    "Application.CarroTest01.executor": "Run",
+    "Application.ConfigTest01.executor": "Run",
+    "Application.ConversorTest01.executor": "Run",
+    "Application.FuncionarioTest01.executor": "Run",
+    "Application.NotificadorTest01.executor": "Run",
+    "Application.PessoaTest01.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Gustavo/OneDrive/Desktop/JavaEstudos/Exercicos/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.NotificadorTest01">
+    <configuration name="BancoBdcTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.BancoBdcTest01" />
+      <module name="Exercicos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ConversorTest01" />
+      <module name="Exercicos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.FuncionarioTest01" />
+      <module name="Exercicos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificadorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.NotificadorTest01" />
+      <module name="Exercicos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PessoaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.PessoaTest01" />
+      <module name="Exercicos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NotificadorTest01" />
+        <item itemvalue="Application.FuncionarioTest01" />
+        <item itemvalue="Application.ConversorTest01" />
+        <item itemvalue="Application.PessoaTest01" />
+        <item itemvalue="Application.BancoBdcTest01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc41d8b-eb18-4031-8aec-f32121d9673c" name="Changes" comment="" />
+      <created>1770726481872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770726481872</updated>
+      <workItem from="1770726483821" duration="2990000" />
+      <workItem from="1770921210435" duration="2150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

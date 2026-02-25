@@ -1,5 +1,6 @@
 package Lclassesabstratas.domain;
 
+<<<<<<< HEAD
 public class Gerente extends Funcionario{
     public Gerente(String nome, double salario) {
         super(nome, salario);
@@ -18,3 +19,19 @@ public class Gerente extends Funcionario{
                 '}';
     }
 }
+=======
+public class Gerente extends Funcionario {
+
+    public Gerente() {
+    }
+
+    public Gerente(String nome, String clt, double salario) {
+        super(nome, clt, salario);
+    }
+
+    @Override
+    public void calculaSalario() {
+        this.salario = salario + (salario * 0.2);
+    }
+}
+>>>>>>> 799f00d
