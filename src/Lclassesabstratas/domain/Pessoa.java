@@ -1,10 +1,6 @@
 package Lclassesabstratas.domain;
 
 public abstract class Pessoa {
-<<<<<<< HEAD
-    public abstract void imprime();
-}
-=======
     protected String nome;
 
     public abstract void imprime();
@@ -17,4 +13,3 @@ public abstract class Pessoa {
         this.nome = nome;
     }
 }
->>>>>>> 799f00d

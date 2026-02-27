@@ -5,12 +5,12 @@ import Lclassesabstratas.domain.Vendedor;
 
 public class FuncionarioTest {
     public static void main(String[] args) {
-        Gerente gerente = new Gerente("Alana","222-1", 2000);
-        Vendedor vendedor = new Vendedor("Gustavo","222-1",3000, 5000);
-        vendedor.calculaSalario();
-        gerente.calculaSalario();
-        System.out.println(gerente);
-        System.out.println("---------");
-        System.out.println(vendedor);
+        Gerente g = new Gerente("Anna", "11122-2", 2000);
+        Vendedor v = new Vendedor("Camila", "22211-4",1500,5000);
+        v.calculaSalario();
+        g.calculaSalario();
+        System.out.println(g);
+        System.out.println("--------------");
+        System.out.println(v);
     }
 }

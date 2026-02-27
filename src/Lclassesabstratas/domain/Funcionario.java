@@ -1,22 +1,5 @@
 package Lclassesabstratas.domain;
 
-<<<<<<< HEAD
-public  abstract class  Funcionario extends Pessoa{
-    protected String nome;
-    protected double salario;
-
-    public Funcionario(String nome, double salario) {
-        this.nome = nome;
-        this.salario = salario;
-        calcularBonus();
-    }
-
-    public abstract void calcularBonus();
-
-    @Override
-    public void imprime() {
-        System.out.println("Imprimindo...");
-=======
 public abstract class Funcionario extends Pessoa {
 
     protected String clt;
@@ -29,19 +12,12 @@ public abstract class Funcionario extends Pessoa {
         this.nome = nome;
         this.clt = clt;
         this.salario = salario;
->>>>>>> 799f00d
     }
 
     @Override
     public String toString() {
         return "Funcionario{" +
                 "nome='" + nome + '\'' +
-<<<<<<< HEAD
-                ", salario=" + salario +
-                '}';
-    }
-}
-=======
                 ", clt='" + clt + '\'' +
                 ", salario=" + salario +
                 '}';
@@ -76,4 +52,3 @@ public abstract class Funcionario extends Pessoa {
         this.salario = salario;
     }
 }
->>>>>>> 799f00d

@@ -4,10 +4,10 @@ import Kenum.domain.Cliente;
 import Kenum.domain.TipoCliente;
 import Kenum.domain.TipoPagamento;
 
-public class ClientTest01 {
+public class ClienteTest01 {
     public static void main(String[] args) {
-        Cliente c1 = new Cliente("Gustavo", TipoCliente.PESSOA_FISICA, TipoPagamento.DEBITO);
-        Cliente c2 = new Cliente("Alana", TipoCliente.PESSOA_JURIDICA, TipoPagamento.CREDITO);
+    Cliente c1 = new Cliente("Gustavo", TipoCliente.PESSOA_JURIDICA, TipoPagamento.DEBITO);
+    Cliente c2 = new Cliente("Alana", TipoCliente.PESSOA_FISICA, TipoPagamento.CREDITO);
         System.out.println(c1);
         System.out.println(c2);
         System.out.println(TipoPagamento.DEBITO.calcularDesconto    (100));
