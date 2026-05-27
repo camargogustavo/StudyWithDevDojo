@@ -2,7 +2,7 @@ package RDates.test;
 
 import java.time.*;
 
-public class DurationTest01 {
+public class DurationTest01 { //Utilizado para horas
     public static void main(String[] args) {
         LocalDateTime now = LocalDateTime.now();
         LocalDateTime nowAftertwoYears = LocalDateTime.now().plusYears(2).plusMinutes(8);
@@ -13,7 +13,6 @@ public class DurationTest01 {
         Duration d3 = Duration.between(Instant.now(), Instant.now().plusSeconds(1000));
         Duration d4 = Duration.ofDays(20);
         Duration d5 = Duration.ofMinutes(20);
-        Duration d6 = Duration.of(get);
         System.out.println(d1 );
         System.out.println(d2 );
         System.out.println(d3 );
